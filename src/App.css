@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  width: 170px;
+  margin: 0 auto;
+}
+.elena {
+  margin: 20px 0;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
